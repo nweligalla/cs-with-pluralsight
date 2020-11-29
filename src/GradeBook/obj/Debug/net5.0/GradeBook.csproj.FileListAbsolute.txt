@@ -1,0 +1,16 @@
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/home/nweligalla/Documents/dotnet/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
